@@ -1,5 +1,5 @@
 # for_Rallo
-에어맨이 죽지 않아.
+에어맨이 쓰러지지 않아.
 
 
 # Live Client Data API 기반 BGM 생성기
